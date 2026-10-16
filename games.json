@@ -302,5 +302,12 @@
     "gameUrl": "files/ktane/index.html",
     "imageUrl": "img/ktane.png",
     "porter": "zay"
+  },
+  {
+    "id": 43,
+    "name": "Horsey Game",
+    "gameUrl": "https://woahhcrackers.github.io/HorseyGameWeb",
+    "imageUrl": "img/horsey.png",
+    "porter": "crackers"
   }
 ]
