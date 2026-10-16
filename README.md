@@ -1,9 +1,9 @@
-# wasm.rip
+# Stardew Valley Web Port
 
-wasm.rip (formerly wasm.com) is a website specifically about porting games (pc, console, etc) to the web! Join the [discord server](https://discord.gg/28JvkswNYz)
+Browser port of Stardew Valley (from the wasm.rip / lag0n collection).
 
-# retired members (ports still on the site)
+Only the Stardew Valley port is kept listed in this repository.
 
-dudeluther1232
+Play: open the site or `files/stardewvalley/index.html`.
 
-ts-debug-v2
+Original port by cirsius (assets loaded from https://cdn.jsdelivr.net/gh/cirsius/stardew-wasm@master/).
